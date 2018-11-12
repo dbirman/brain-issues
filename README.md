@@ -1,5 +1,7 @@
 # brain
 
+brain.danbirman.com
+
 *Making cognitive neuroscience playful*
 
 Brain is a private project to develop an educational platform to help students engage with cognitive neuroscience in a playful manner. Brain is my attempt to make cognitive neuroscience more intuitive, more of a process of discovery than memorization, and more effectively achieve the learning goals of instructors.
