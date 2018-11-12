@@ -1,6 +1,6 @@
 # brain
 
-brain.danbirman.com
+https://brain.danbirman.com
 
 *Making cognitive neuroscience playful*
 
